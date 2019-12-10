@@ -11,6 +11,6 @@ features:
   details: Design, Build, Prototype, A place where you explore new possibilities...
 - title: Idea Cafe (J212)
   details: When you have an idea, while you don't know where to go and who to talk...
-footer:  Copyright © 2019 Open FIESTA
+footer:  Copyright © 2019 Open FIESTA - IID 
 ---
 
